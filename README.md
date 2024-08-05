@@ -3,7 +3,7 @@
   <h3>연락처</h3>
 <p align="center">
     <a href="https://naver.com" target="_blank">
-      <img src="https://img.shields.io/badge/Contact-01jjb@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Contact">
+      ![Naver Contact](https://img.shields.io/badge/Contact-01jjb@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)
     </a>
 </p>
   <h3>자기소개</h3>
