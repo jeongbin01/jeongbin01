@@ -1,5 +1,7 @@
 <div align=center> 
   전정빈 | 프론트드 개발자
+
+  ---
   
   연락처
   
@@ -7,11 +9,11 @@
   **GitHub:** [jeongbin01](https://github.com/jeongbin01)
   **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/jeongbin-jeon-0b54a331a/)
 
---
+---
 
 ### 자기소개
 
---
+---
 
 ### 기술 스택
 
@@ -26,15 +28,14 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
 </div>
 
---
+---
 
 ## 프레임워크
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
 </div>
 
- <br/>
- <br/>
+---
 
 ## 도구
 <div style="display: flex; gap: 10px;">
@@ -43,7 +44,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </div>
 
---
+---
 
 ### 학력
 
@@ -54,7 +55,7 @@
 - **동암고등학교**  
   2018.03 ~ 2021.02
 
---
+---
 
 ### GitHub 통계
 
