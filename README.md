@@ -59,12 +59,12 @@
 
 ### GitHub 통계
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <div style="flex: 1; text-align: center;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="text-align: center; margin: 10px;">
     <h3>GitHub Readme Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=jeongbin01&theme=tokyonight&show_icons=true" alt="GitHub Readme Stats" style="border-radius: 8px; max-width: 100%;">
   </div>
-  <div style="flex: 1; text-align: center;">
+  <div style="text-align: center; margin: 10px;">
     <h3>Top Languages Card</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbin01&layout=compact" alt="Top Languages Card" style="border-radius: 8px; max-width: 100%;">
   </div>
