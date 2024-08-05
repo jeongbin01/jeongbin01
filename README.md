@@ -11,21 +11,29 @@
 
 ---
 
-### 기술 스택!
+### 기술 스택
 
+- **언어**
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.simpleicons.org/python" alt="Python" width="40" height="40">
-  <img src="https://cdn.simpleicons.org/java" alt="Java" width="40" height="40">
+  <img src="https://cdn.simpleicons.org/jav" alt="Java" width="40" height="40">
   <img src="https://cdn.simpleicons.org/html5" alt="HTML" width="40" height="40">
   <img src="https://cdn.simpleicons.org/css3" alt="CSS" width="40" height="40">
   <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="40" height="40">
   <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="40" height="40">
 </div>
 
-- **언어**: Python, Java, HTML, CSS, JavaScript, TypeScript
-- **프레임워크**: React
-- **도구**: Git, github, VS Code
+- **프레임워크**
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.simpleicons.org/react" alt="React" width="40" height="40">
+</div>
 
+- **도구**
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.simpleicons.org/git" alt="Git" width="40" height="40">
+  <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40">
+  <img src="https://cdn.simpleicons.org/vscode" alt="VS Code" width="40" height="40">
+</div>
 ---
 
 
