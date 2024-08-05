@@ -26,14 +26,14 @@
 
 - **프레임워크**
 <div style="display: flex; gap: 10px;">
-  <img src="https://cdn.simpleicons.org/react" alt="React" width="40" height="40">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
 </div>
 
 - **도구**
 <div style="display: flex; gap: 10px;">
-  <img src="https://cdn.simpleicons.org/git" alt="Git" width="40" height="40">
-  <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40">
-  <img src="https://cdn.simpleicons.org/vscode" alt="VS Code" width="40" height="40">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </div>
 ---
 
