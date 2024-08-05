@@ -3,13 +3,13 @@
   <h3>연락처</h3>
   <p align="center">
     <a href="mailto:01jjb@naver.com">
-      <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Naver Email">
+      <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=mail&logoColor=white" alt="Naver Email">
     </a>
     <a href="mailto:jeonjeongbin1@gmail.com">
-    <img src="https://img.shields.io/badge/Google-d14836?style=flat-square&logo=google&logoColor=white" alt="Google Contact">
+      <img src="https://img.shields.io/badge/Google-d14836?style=flat-square&logo=google&logoColor=white" alt="Google Contact">
     </a>
     <a href="https://www.linkedin.com/in/jeongbin-jeon-0b54a331a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
     </a>
   </p>
 
