@@ -3,7 +3,7 @@
   <h3>연락처</h3>
 <p align="center">
     <a href="https://naver.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Naver_logo_2015.png/1280px-Naver_logo_2015.png" alt="Naver Contact">
+      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
     </a>
 </p>
   <h3>자기소개</h3>
