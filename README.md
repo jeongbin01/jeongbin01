@@ -1,5 +1,6 @@
 <div align="center"> 
-  <h1>전정빈 | 프론트엔드 개발자</h1>
+  <h3>자기소개</h3>
+  <p>자기소개 내용을 추가해 주세요.</p>
   <h3>메일</h3>
   <p align="center">
     <a href="mailto:01jjb@naver.com">
@@ -13,10 +14,12 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
     </a>
   </p>
-
+    <h3>GitHub 통계</h3>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jeongbin01&theme=tokyonight&show_icons=true" alt="GitHub Readme Stats" style="border-radius: 8px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbin01&layout=compact" alt="Top Languages Card" style="border-radius: 8px;">
+  </div>
 </p>
-  <h3>자기소개</h3>
-  <p>자기소개 내용을 추가해 주세요.</p>
   <h3>기술 스택</h3>
   <h4>언어</h4>
   <div style="display: flex; gap: 10px; justify-content: center;">
@@ -48,9 +51,4 @@
     <strong>동암고등학교</strong><br>
     2018.03 ~ 2021.02
   </p>
-  <h3>GitHub 통계</h3>
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jeongbin01&theme=tokyonight&show_icons=true" alt="GitHub Readme Stats" style="border-radius: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbin01&layout=compact" alt="Top Languages Card" style="border-radius: 8px;">
-  </div>
 </div>
