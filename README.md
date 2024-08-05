@@ -1,6 +1,6 @@
 <div align="center"> 
   <h1>전정빈 | 프론트엔드 개발자</h1>
-  <h3>연락처</h3>
+  <h3>메일</h3>
   <p align="center">
     <a href="mailto:01jjb@naver.com">
       <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Naver Email">
