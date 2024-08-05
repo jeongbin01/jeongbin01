@@ -1,11 +1,15 @@
 <div align="center" style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; border: 2px solid #ddd;">
   <h1 style="font-size: 2.5em; color: #333; margin: 0;">전정빈 | 프론트엔드 개발자</h1>
-  <h3>연락처</h3>
-  <p>
-    <strong>이메일:</strong> <a href="mailto:01jjb@enaver.com">01jjb@enaver.com</a><br>
-    <strong>GitHub:</strong> <a href="https://github.com/jeongbin01">jeongbin01</a><br>
-    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jeongbin-jeon-0b54a331a/">linkedin.com</a>
-  </p>
+
+  <p style="font-size: 1.2em; color: #555;">열정적인 프론트엔드 개발자 | 기술에 대한 깊은 이해와 창의적인 문제 해결 능력 보유</p>
+
+  <div style="margin: 20px 0;">
+    <a href="mailto:01jjb@enaver.com" style="text-decoration: none; color: #0073e6; font-weight: bold;">이메일: 01jjb@enaver.com</a><br>
+    <a href="https://github.com/jeongbin01" style="text-decoration: none; color: #333; font-weight: bold;">GitHub: jeongbin01</a><br>
+    <a href="https://www.linkedin.com/in/jeongbin-jeon-0b54a331a/" style="text-decoration: none; color: #0077b5; font-weight: bold;">LinkedIn: linkedin.com</a>
+  </div>
+  
+</div>
   <h3>자기소개</h3>
   <p>자기소개 내용을 추가해 주세요.</p>
   <h3>기술 스택</h3>
