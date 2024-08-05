@@ -5,6 +5,9 @@
     <a href="mailto:leegm17@naver.com">
       <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Naver Contact">
     </a>
+    <a href="mailto:jeonjeongbin1@gmail.com">
+    <img src="https://img.shields.io/badge/Google-d14836?style=flat-square&logo=google&logoColor=white" alt="Google Contact">
+    </a>
   </p>
 
 </p>
