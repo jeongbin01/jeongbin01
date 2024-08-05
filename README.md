@@ -1,5 +1,5 @@
-<div align="center"> 
-  <h1>전정빈 | 프론트엔드 개발자</h1>
+<div align="center" style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; border: 2px solid #ddd;">
+  <h1 style="font-size: 2.5em; color: #333; margin: 0;">전정빈 | 프론트엔드 개발자</h1>
   <h3>연락처</h3>
   <p>
     <strong>이메일:</strong> <a href="mailto:01jjb@enaver.com">01jjb@enaver.com</a><br>
