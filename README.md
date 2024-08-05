@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Google-d14836?style=flat-square&logo=google&logoColor=white" alt="Google Contact">
     </a>
     <a href="https://www.linkedin.com/in/jeongbin-jeon-0b54a331a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jeongbin%20Jeon-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
     </a>
   </p>
 
