@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
 </div>
 
 <br>
@@ -55,13 +56,14 @@
   2018.03 ~ 2021.02
   
 ---
-## GitHub Readme Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
-
----
-
-### Top Languages Card
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbin01&layout=compact)
+<div style="display: flex; gap: 20px;">
+  <div>
+    <h3>GitHub Readme Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=jeongbin01&theme=tokyonight&show_icons=true" alt="GitHub Readme Stats" style="border-radius: 8px;">
+  </div>
+  <div>
+    <h3>Top Languages Card</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbin01&layout=compact" alt="Top Languages Card" style="border-radius: 8px;">
+  </div>
+</div>
 
