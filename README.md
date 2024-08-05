@@ -15,7 +15,7 @@
 
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.simpleicons.org/python" alt="Python" width="40" height="40">
-  <img src="https://cdn.simpleicons.org/javar" alt="Java" width="40" height="40">
+  <img src="https://cdn.simpleicons.org/java" alt="Java" width="40" height="40">
   <img src="https://cdn.simpleicons.org/html5" alt="HTML" width="40" height="40">
   <img src="https://cdn.simpleicons.org/css3" alt="CSS" width="40" height="40">
   <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="40" height="40">
