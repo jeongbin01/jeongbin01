@@ -1,9 +1,11 @@
 <div align="center"> 
   <h1>전정빈 | 프론트엔드 개발자</h1>
   <h3>연락처</h3>
-  <p>
-    [![Contact](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Naver_logo_2015.png/1280px-Naver_logo_2015.png)](https://naver.com)
-  </p>
+<p align="center">
+    <a href="https://naver.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Naver_logo_2015.png/1280px-Naver_logo_2015.png" alt="Naver Contact">
+    </a>
+</p>
   <h3>자기소개</h3>
   <p>자기소개 내용을 추가해 주세요.</p>
   <h3>기술 스택</h3>
