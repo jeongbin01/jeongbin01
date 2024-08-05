@@ -61,7 +61,7 @@
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jeongbin01&theme=tokyonight&show_icons=true" alt="GitHub Readme Stats" style="border-radius: 8px; max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jeongbin01&theme=tokyonight&show_icons=true" alt="GitHub Readme Stats" style="border-radius: 8px; max-width: 100%;"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbin01&layout=compact" alt="Top Languages Card" style="border-radius: 8px; max-width: 100%;">
   </div>
 </div>
