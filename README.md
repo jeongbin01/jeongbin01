@@ -3,7 +3,8 @@
   <h3>연락처</h3>
   <p align="center">
     <a href="mailto:01jjb@naver.com">
-      <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=mail&logoColor=white" alt="Naver Email">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Naver_logo_2015.png/1280px-Naver_logo_2015.png" alt="Naver Logo" width="20" height="20">
+      <img src="https://img.shields.io/badge/Email-01jjb@naver.com-03C75A?style=flat-square&logoColor=white" alt="Naver Email">
     </a>
     <a href="mailto:jeonjeongbin1@gmail.com">
       <img src="https://img.shields.io/badge/Google-d14836?style=flat-square&logo=google&logoColor=white" alt="Google Contact">
