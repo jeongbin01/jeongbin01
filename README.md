@@ -2,7 +2,7 @@
   <h1>전정빈 | 프론트엔드 개발자</h1>
   <h3>연락처</h3>
   <p>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+    [![Contact](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Naver_logo_2015.png/1280px-Naver_logo_2015.png)](https://naver.com)
   </p>
   <h3>자기소개</h3>
   <p>자기소개 내용을 추가해 주세요.</p>
