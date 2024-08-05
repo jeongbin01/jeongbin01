@@ -15,13 +15,14 @@
 
 - **언어**
 <div style="display: flex; gap: 10px;">
-  <img src="https://cdn.simpleicons.org/python" alt="Python" width="40" height="40">
-  <img src="https://cdn.simpleicons.org/jav" alt="Java" width="40" height="40">
-  <img src="https://cdn.simpleicons.org/html5" alt="HTML" width="40" height="40">
-  <img src="https://cdn.simpleicons.org/css3" alt="CSS" width="40" height="40">
-  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="40" height="40">
-  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="40" height="40">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
 </div>
+<br>
 
 - **프레임워크**
 <div style="display: flex; gap: 10px;">
