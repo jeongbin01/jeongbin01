@@ -1,30 +1,26 @@
-# React + TypeScript + Vite
+## 전정빈 | 프론트드 개발자
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**이메일:** gil.dong@example.com  
+**깃허브:** [github.com/gildong](https://github.com/gildong)  
+**링크드인:** [linkedin.com/in/gildong](https://linkedin.com/in/gildong)  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 자기소개
+안녕하세요, 저는 열정적인 신입 개발자 홍길동입니다. 지속적인 학습과 협업을 통해 문제를 해결하는 것을 즐기며, 현재는 웹 개발과 데이터 과학에 관심이 많습니다.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### 기술 스택
+- **언어**: Python, Java, HTML, CSS, JavaScript, React
+- **프레임워크**: React, Django
+- **도구**: Git, Docker
 
-- Configure the top-level `parserOptions` property like this:
+---
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+### 학력
+- **전주대학교**: 스마트미디어학과 주전공 or 인공지능학과 복수전공 , 2021.03 ~ 2025.02
+- **동암고등학교**: 2018.03 ~ 2021.02
+
+---
