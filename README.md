@@ -53,4 +53,8 @@
 
 - **동암고등학교**  
   2018.03 ~ 2021.02
+  
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
+
