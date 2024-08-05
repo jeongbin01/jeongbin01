@@ -56,14 +56,18 @@
   2018.03 ~ 2021.02
   
 ---
-<div style="display: flex; gap: 10px;">
-  <div style="flex: 1;">
+
+### GitHub 통계
+
+<div style="display: flex; gap: 20px;">
+  <div>
     <h3>GitHub Readme Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=jeongbin01&theme=tokyonight&show_icons=true" alt="GitHub Readme Stats" style="border-radius: 8px; width: 100%; max-width: 500px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jeongbin01&theme=tokyonight&show_icons=true" alt="GitHub Readme Stats" style="border-radius: 8px;">
   </div>
-  <div style="flex: 1;">
+  <div>
     <h3>Top Languages Card</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbin01&layout=compact" alt="Top Languages Card" style="border-radius: 8px; width: 100%; max-width: 500px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbin01&layout=compact" alt="Top Languages Card" style="border-radius: 8px;">
   </div>
 </div>
+
 
