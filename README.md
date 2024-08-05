@@ -1,11 +1,11 @@
 <div align=center> 
-## 전정빈 | 프론트드 개발자
-
-### 연락처
-
-- **이메일:** [01jjb@enaver.com](mailto:01jjb@enaver.com)
-- **GitHub:** [jeongbin01](https://github.com/jeongbin01)
-- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/jeongbin-jeon-0b54a331a/)
+  전정빈 | 프론트드 개발자
+  
+  연락처
+  
+  **이메일:** [01jjb@enaver.com](mailto:01jjb@enaver.com)
+  **GitHub:** [jeongbin01](https://github.com/jeongbin01)
+  **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/jeongbin-jeon-0b54a331a/)
 
 --
 
