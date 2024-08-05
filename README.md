@@ -1,8 +1,11 @@
 ## 전정빈 | 프론트드 개발자
 
-**이메일:** 01jjb@enaver.com  
-**깃허브:** [github.com/gildong](https://github.com/gildong)  
-**링크드인:** [linkedin.com]([https://linkedin.com](https://www.linkedin.com/in/jeongbin-jeon-0b54a331a/))  
+### 연락처
+
+- **이메일:** [01jjb@enaver.com](mailto:01jjb@enaver.com)
+- **GitHub:** [github.com/gildong](https://github.com/gildong)
+- **LinkedIn:** [linkedin.com/in/jeongbin-jeon](https://www.linkedin.com/in/jeongbin-jeon-0b54a331a/)
+
 
 ---
 
