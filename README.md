@@ -55,6 +55,13 @@
   2018.03 ~ 2021.02
   
 ---
+## GitHub Readme Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=onedark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
+
+---
+
+### Top Languages Card
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbin01&layout=compact)
 
