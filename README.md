@@ -3,7 +3,7 @@
 ### 연락처
 
 - **이메일:** [01jjb@enaver.com](mailto:01jjb@enaver.com)
-- **GitHub:** [github.com](https://github.com/jeongbin01)
+- **GitHub:** [jeongbin01](https://github.com/jeongbin01)
 - **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/jeongbin-jeon-0b54a331a/)
 
 
