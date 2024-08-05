@@ -2,9 +2,9 @@
   <h1>전정빈 | 프론트엔드 개발자</h1>
   <h3>연락처</h3>
 <p align="center">
-    <a href="https://naver.com" target="_blank">
-      ![Naver Contact](https://img.shields.io/badge/Contact-01jjb@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)
-    </a>
+  <a href="mailto:leegm17@naver.com">
+    <img src="https://img.shields.io/badge/Contact-01jjb@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Naver Contact">
+  </a>
 </p>
   <h3>자기소개</h3>
   <p>자기소개 내용을 추가해 주세요.</p>
