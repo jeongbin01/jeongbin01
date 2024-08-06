@@ -38,15 +38,27 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
   </div>
-  <h3>학력</h3>
-|                |                    |
-|----------------|--------------------|
-| **전주대학교** |                    |
-| 스마트미디어학과 주전공, 인공지능학과 복수전공 | |
-| 2021.03 ~ 2025.02 |                |
-
-|                |                    |
-|----------------|--------------------|
-| **동암고등학교** |                  |
-| 2018.03 ~ 2021.02 |                |
+ <h3>학력</h3>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <table>
+      <tr>
+        <td align="center"><strong>전주대학교</strong></td>
+      </tr>
+      <tr>
+        <td align="center">스마트미디어학과 주전공, 인공지능학과 복수전공</td>
+      </tr>
+      <tr>
+        <td align="center">2021.03 ~ 2025.02</td>
+      </tr>
+    </table>
+    <br>
+    <table>
+      <tr>
+        <td align="center"><strong>동암고등학교</strong></td>
+      </tr>
+      <tr>
+        <td align="center">2018.03 ~ 2021.02</td>
+      </tr>
+    </table>
+  </div>
 </div>
