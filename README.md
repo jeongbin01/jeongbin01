@@ -26,27 +26,4 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code">
   </div>
-  <h3>학력</h3>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <table style="border: 1px solid white;">
-      <tr>
-        <td align="center" style="border: 1px solid white;"><strong>전주대학교</strong></td>
-      </tr>
-      <tr>
-        <td align="center" style="border: 1px solid white;">스마트미디어학과 주전공, 인공지능학과 복수전공</td>
-      </tr>
-      <tr>
-        <td align="center" style="border: 1px solid white;">2021.03 ~ 2025.02</td>
-      </tr>
-    </table>
-    <br>
-    <table style="border: 1px solid white;">
-      <tr>
-        <td align="center" style="border: 1px solid white;"><strong>동암고등학교</strong></td>
-      </tr>
-      <tr>
-        <td align="center" style="border: 1px solid white;">2018.03 ~ 2021.02</td>
-      </tr>
-    </table>
-  </div>
 </div>
