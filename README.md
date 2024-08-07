@@ -1,16 +1,4 @@
 <div align="center"> 
-  <h3>자기소개</h3>
-  <p>자기소개 내용을 추가해 주세요.</p>
-  <h3>메일</h3>
-  <p align="center">
-    <a href="mailto:01jjb@naver.com">
-      <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Naver Email">
-    </a>
-    </a>
-    <a href="mailto:jeonjeongbin1@gmail.com">
-      <img src="https://img.shields.io/badge/Google-d14836?style=flat-square&logo=google&logoColor=white" alt="Google Contact">
-    </a>
-  </p>
     <h3>GitHub 통계</h3>
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=jeongbin01&theme=tokyonight&show_icons=true" alt="GitHub Readme Stats" style="border-radius: 8px;">
